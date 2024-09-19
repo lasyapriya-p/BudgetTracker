@@ -1,1 +1,2 @@
 # BudgetTracker
+The Budget Tracker is a C# application designed to help users manage their finances effectively by tracking expenses and incomes. The application enables users to monitor their spending habits, set budgets, and analyze their financial data in a user-friendly interface.This web application serves as a comprehensive solution for managing both incoming and outgoing transactions across multiple entities. It offers users the capability to create workspaces and manage transactions independently.
